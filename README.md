@@ -1,4 +1,4 @@
-<h1 align="center"><STRONG>𝑯𝑨𝑵𝑺-𝑩𝑼𝑮-𝑩𝑶𝑻</STRONG></h1>
+<h1 align="center"><DOCTOR>-CORINGA-𝑩𝑶𝑻</LUNÁTICO></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HANS+BUG+BOT+BEST+WA+BOT;CREATED+BY+HANS+TECH;BOT+DATE+27.07.2024" alt="Typing SVG" /></a>
   </p>
